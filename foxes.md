@@ -80,4 +80,3 @@ you better be
 nearly as                 
 lucky.                    
   
-by Charles Bukowski
