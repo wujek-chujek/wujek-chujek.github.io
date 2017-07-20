@@ -5,6 +5,13 @@ Zdaje się, że twórczość ma dla mnie jakąś wartość, gdy zmienia stan umy
 
 Starałem się więc dobrać listę tak, by nie stanowiła podręcznika z szkoły średniej, czy osobistej listy lubianych rzeczy, zostawiłem rzeczy uważane przeze mnie za mogące zainteresować J.
 
+# Wielkość i małość
+
+[Wiersz o zapomnianych lotnikach](upadek.md), a może o tym, jak nieważni jesteśmy wobec wielkiego świata, niezaleźnie od hybris naszych czynów...
+
+[Tutaj](kwestia.md) dość znany kawałek.
+
+
 
 [Jeden](http://lingualeo.com/es/jungle/sleeping-woman-by-charles-bukowski-461904#/page/1)
 
