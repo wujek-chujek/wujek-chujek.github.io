@@ -1,4 +1,5 @@
 # Upadek Ikara
+
 Karnie dźwiga brzemię wół  
 Szumne drzewa rosną w górę  
 Szumne rzeki płyną w dół  
