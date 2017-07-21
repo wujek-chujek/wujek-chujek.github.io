@@ -40,7 +40,7 @@ I [jeszcze](czasteczka.md) o człowieku.
 
 [Dlaczego nie kupię pistoletu](keepgun.md)
 
-[Ładnie o tle, o którym zapominamy](intel.md)
+[Ładnie o tle, o którym zapominamy](intel.md) oraz dobra [dewiza życiowa](jezeli.md)
 
 [Boleśniej](my.md)
 
