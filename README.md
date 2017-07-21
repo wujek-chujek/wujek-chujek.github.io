@@ -31,7 +31,7 @@ skoro już o tym, to...
 
 [Obrazek](landszaft.md)
 
-Wiersz o tytule [Songs](songs.md)
+Wiersz o tytule [Pieśni](songs.md)
 
 I [jeszcze](czasteczka.md) o człowieku. 
 
@@ -49,6 +49,7 @@ I [jeszcze](czasteczka.md) o człowieku.
 ## Śmierć
 
 [Wierszyk znany z głośnego filmu](night.md), co nie umniejsza jego wartości.
+Smutnawa [Oda do wielkiego tuńczyka w sklepie](ode.md)
 
 ## Miłość
 
