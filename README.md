@@ -49,6 +49,7 @@ I [jeszcze](czasteczka.md) o człowieku.
 ## Śmierć
 
 [Wierszyk znany z głośnego filmu](night.md), co nie umniejsza jego wartości.
+
 Smutnawa [Oda do wielkiego tuńczyka w sklepie](ode.md)
 
 ## Miłość
