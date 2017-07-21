@@ -50,3 +50,7 @@ Porażone nieba skalą
 Morze cierpnie gęsią skórką...  
 Z migotliwą znika falą  
 Z kroplą wosku martwe piórko  
+
+
+*Nawiązuje do obrazu:
+https://www.google.com/culturalinstitute/beta/asset/-/6gGkgMwPyiEqUQ?hl=en *
