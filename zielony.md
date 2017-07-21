@@ -6,7 +6,7 @@ i zeby wiatr kołysał
 gałezie drzew,  
 iżebym wiersze pisał  
 o tym, że...  
-                każdy nerw,  
+             każdy nerw,  
 każda chwila samotna,  
 każdy ból - jakże częsty, jak częsty! -  
 zwiastuje odchłań,  
