@@ -21,7 +21,7 @@ skoro już o tym, to...
 
 ### Piękno & Dobro
 
-[Kolejny głos](idied.md) za tym, że są tożsame.
+[Ten jest niezły](idied.md) i przypomina mi o wyborach stronnictw.
 
 [Śpiąca kobieta](kobieta.md)
 
@@ -43,6 +43,8 @@ I [jeszcze](czasteczka.md) o człowieku.
 [Ładnie o tle, o którym zapominamy](intel.md)
 
 [Boleśniej](my.md)
+
+[Ciasteczka](ciasteczka.md)
 
 ## Śmierć
 
