@@ -7,7 +7,7 @@ Starałem się więc dobrać listę tak, by nie stanowiła podręcznika z szkoł
 
 ### Wielkość i małość
 
-[Wiersz o zapomnianych lotnikach](upadek.md), a może o tym, jak nieważni jesteśmy wobec wielkiego świata, niezaleźnie od hybris naszych czynów...
+[Wiersz o zapomnianych lotnikach](upadek.md), a może o tym, jak nieważni jesteśmy wobec wielkiego świata, niezaleźnie od hybris naszych [czynów](lot.md)...
 
 [Ten](road.md) przypomina mi legendę o tym, jak Herkulesa zachęcały dwie kobiety-alegorie, by podążał z którąś jej ścieżką życia. Ta, którą wybrał, miała na imię Αρετή.
 
