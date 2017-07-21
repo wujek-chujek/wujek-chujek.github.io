@@ -44,7 +44,7 @@ I [jeszcze](czasteczka.md) o człowieku.
 
 [Boleśniej](my.md)
 
-[Ciasteczka](ciasteczka.md)
+Długie i dowcipne [Ciasteczka](ciasteczka.md), ale są też dobre [wiersze nad wyraz krótkie](zwracam.md).
 
 ## Śmierć
 
