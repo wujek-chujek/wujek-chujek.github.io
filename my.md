@@ -1,4 +1,4 @@
-#My z drugiej połowy XX wieku   
+# My z drugiej połowy XX wieku   
 
 My z drugiej połowy XX wieku   
 rozbijający atomy   
