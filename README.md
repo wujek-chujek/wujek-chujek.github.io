@@ -1,9 +1,9 @@
 ## Dla tych, którzy poezji jeszcze nie polubili
 
-Zdaje się, że twórczość ma dla mnie jakąś wartość, gdy zmienia stan umysłu w którąś z dwóch stron:
+Zdaje się, że twórczość ma dla mnie jakąś wartość, gdy zmienia stan umysłu w jedną z dwóch stron:
 > Art should comfort the disturbed and disturb the comfortable.
 
-Starałem się więc dobrać listę tak, by nie stanowiła podręcznika z szkoły średniej, czy osobistej listy lubianych rzeczy, zostawiłem rzeczy uważane przeze mnie za mogące zainteresować współczesnego człowieka, robiące emocje bez nadmiernego ą ę.
+Starałem się więc dobrać listę tak, by nie stanowiła podręcznika z szkoły średniej, czy osobistej listy lubianych rzeczy, zostawiłem utwory uważane przeze mnie za mogące zainteresować mi współczesnych, robiące emocje bez nadmiernego ą ę.
 
 ### Wielkość i małość
 
@@ -21,17 +21,11 @@ skoro już o tym, to...
 
 ### Piękno & Dobro
 
-idied.md
+[Kolejny głos](idied.md) za tym, że są tożsame.
 
 [Śpiąca kobieta](kobieta.md)
 
-[Drugi](https://m.poemhunter.com/poem-amp/alone-with-everybody/)
-
-https://m.poemhunter.com/poem/16-bit-intel-8088-chip/
-
-https://m.poemhunter.com/poem/for-the-foxes/
-
-[próba](foxes.md)
+[Lisy](foxes.md)
 
 ### Egzystencjalny niepokój
 
@@ -46,7 +40,9 @@ I [jeszcze](czasteczka.md) o człowieku.
 
 [Dlaczego nie kupię pistoletu](keepgun.md)
 
-my.md
+[Ładnie o tle, o którym zapominamy](intel.md)
+
+[Boleśniej](my.md)
 
 ## Śmierć
 
