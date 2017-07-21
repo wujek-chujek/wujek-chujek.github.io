@@ -41,7 +41,7 @@ W igrzyska wpatruję się boże;
 Ich uczty i walki - jak trucht karaluszy,  
 Ich Parnas - labirynt na korze...  
 Nie widzą mnie, krążąc wokoło jak słońca,  
-- Mgławicą nieludzkich lic -  
+-Mgławicą nieludzkich lic -  
 Aż któryś mnie żarem niechcący potrąca  
 I zrzuca bezwiednie - w nic.  
 
