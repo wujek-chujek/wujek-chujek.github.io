@@ -35,6 +35,8 @@ Wiersz o tytule [Pieśni](songs.md)
 
 I [jeszcze](czasteczka.md) o człowieku. 
 
+[A ten](ogloszenie.md) wiersz zadedykowano Lemowi.
+
 
 ### Codzienności
 
