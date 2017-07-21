@@ -13,7 +13,7 @@ Starałem się więc dobrać listę tak, by nie stanowiła podręcznika z szkoł
 
 Pozytywnie nastrajający [utwór](nadzieja.md)
 
-I jeszcze więcej nadziei, od [mistrza rytmu](miejmy.md).
+I wezwanie do nadziei, od [mistrza rytmu](miejmy.md).
 
 [Tutaj](potega.md) dość znany kawałek.
 
