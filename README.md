@@ -21,7 +21,7 @@ skoro już o tym, to...
 
 ### Piękno & Dobro
 
-[Ten jest niezły](idied.md) i przypomina mi o wyborach stronnictw.
+[Ten jest niezły](idied.md) i przypomina mi o dobrych rozmowach z dobrymi ludźmi.
 
 [Śpiąca kobieta](kobieta.md)
 
