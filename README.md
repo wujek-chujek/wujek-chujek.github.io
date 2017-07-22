@@ -59,3 +59,5 @@ Smutnawa [Oda do wielkiego tuńczyka w sklepie](ode.md)
 Tak naprawdę każda piosenka i każdy wiersz jest [o miłości!](szukam.md)
 
 [I jeszcze.](alone.md)
+
+[I znowu.](namiot.md)
