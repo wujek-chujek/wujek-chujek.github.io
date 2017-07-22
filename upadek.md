@@ -1,5 +1,6 @@
 # Upadek Ikara
 
+Pług rozgryza grudy bure  
 Karnie dźwiga brzemię wół  
 Szumne drzewa rosną w górę  
 Szumne rzeki płyną w dół  
@@ -50,3 +51,7 @@ Porażone nieba skalą
 Morze cierpnie gęsią skórką...  
 Z migotliwą znika falą  
 Z kroplą wosku martwe piórko  
+
+
+*Nawiązuje do obrazu:  
+https://www.google.com/culturalinstitute/beta/asset/-/6gGkgMwPyiEqUQ?hl=en*
